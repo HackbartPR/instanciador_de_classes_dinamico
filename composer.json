@@ -1,0 +1,18 @@
+{
+    "name": "hackbart/instanciador_de_classes_dinamico",
+    "description": "Instanciador de Classes Automático",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HackbartPR\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HackbartPR",
+            "email": "cgharckbart@gmail.com"
+        }
+    ],
+    "require": {}
+}
